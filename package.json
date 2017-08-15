@@ -1,0 +1,12 @@
+{
+  "name": "booktips-task-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./api.js"
+  },
+  "dependencies": {
+    "express": "~4.15.2",
+    "google-books-search": "^0.3.1"
+  }
+}
