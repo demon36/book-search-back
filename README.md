@@ -1,4 +1,4 @@
 # book-search-back
 
-npm install
-node api.js
+* npm install
+* node api.js
